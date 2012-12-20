@@ -1,0 +1,21 @@
+{
+    "name": "aygon/jatun",
+    "type": "symfony-bundle",
+    "description": "A simple way to craete data lists with filter form and pagination",
+    "keywords": ["data", "list", "filter-form", "pagination"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arno Geurts",
+            "email": "arno.geurts@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/symfony": "2.1.x"
+    },
+    "autoload": {
+        "psr-0" : { "Aygon\\DataListBundle" : "" }
+    },
+    "minimum-stability": "dev"
+}
