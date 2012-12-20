@@ -1,5 +1,5 @@
 {
-    "name": "aygon/jatun",
+    "name": "aygon/data-list-bundle",
     "type": "symfony-bundle",
     "description": "A simple way to craete data lists with filter form and pagination",
     "keywords": ["data", "list", "filter-form", "pagination"],
