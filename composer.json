@@ -17,5 +17,6 @@
     "autoload": {
         "psr-0" : { "Aygon\\DataListBundle" : "" }
     },
+    "target-dir": "Aygon/DataListBundle",
     "minimum-stability": "dev"
 }
