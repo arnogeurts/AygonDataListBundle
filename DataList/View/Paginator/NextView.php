@@ -1,6 +1,6 @@
 <?php
 
-namespace Aygon\DataListBundle\Datalist\View\Paginator;
+namespace Aygon\DataListBundle\DataList\View\Paginator;
 
 /**
  * @author Arno Geurts

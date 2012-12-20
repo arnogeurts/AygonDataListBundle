@@ -2,9 +2,9 @@
 
 namespace Aygon\DataListBundle\Datalist\View;
 
-use Aygon\DataListBundle\Datalist\View\Paginator\ItemView;
-use Aygon\DataListBundle\Datalist\View\Paginator\NextView;
-use Aygon\DataListBundle\Datalist\View\Paginator\PreviousView;
+use Aygon\DataListBundle\DataList\View\Paginator\ItemView;
+use Aygon\DataListBundle\DataList\View\Paginator\NextView;
+use Aygon\DataListBundle\DataList\View\Paginator\PreviousView;
 
 /**
  * @author Arno Geurts

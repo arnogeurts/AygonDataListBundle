@@ -1,6 +1,6 @@
 <?php
 
-namespace Aygon\DataListBundle\Datalist\View;
+namespace Aygon\DataListBundle\DataList\View;
 
 /**
  * @author Arno Geurts
